@@ -12,5 +12,5 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 No path `\verificador-telefone` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
 >python nomedoarquivo.py
 
-## Instalar biblioteca
->pip install phonenumbers
+
+
